@@ -19,7 +19,6 @@
     "BackgroundRendererMixin",
     "BuiltinModelItemRendererMixin",
     "ClientPlayerInteractionManagerMixin",
-    "ClientWorldMixin",
     "ContinuousFallingParticleMixin",
     "CrackParticleMixin",
     "DrippingParticleMixin"
